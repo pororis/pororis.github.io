@@ -13,10 +13,10 @@ url: "artemsheludko.pw" # the base hostname & protocol for your site, e.g. http:
 facebook: #Add your Facebook
 twitter: #Add your Twitter
 google-plus: #Add your Google+
-github: #Add your Github
+github: https://github.com/pororis/pororis.github.io.git
 
 # Contact form
-email: #your-email@domain.com
+email: hyunsu133235@gmail.com
 
 # Comments
 discus-identifier: # Add your Disqus identifier
